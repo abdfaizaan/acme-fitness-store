@@ -53,15 +53,15 @@ In this lab, you will learn how to build and deploy both frontend and backend Sp
    
    ![](Images/image8.png "Enter Password")
      
-   > If you see the **Help us protect your account** dialog box, then select the **Skip for now** option.
+   > If you see the pop-up Action Required, keep default and then click on Ask later.
 
-   ![](Images/MFA.png "Enter Password")
+   ![](Images/mfa.png "Enter Password")
   
 1. If you see the pop-up **Stay Signed in?**, click No
 
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
-1. If a **Welcome to Microsoft Azure** popup window appears, click **Maybe Later** to skip the tour.
+1. If a **Welcome to Microsoft Azure** popup window appears, click **Cancel** to skip the tour.
    
 1. Now you will see the Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
 
